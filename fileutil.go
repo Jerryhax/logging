@@ -1,10 +1,9 @@
 /*
 @Group : Jerryhax
 @Author : Jerryhax
-@DateTime : 2020/2/13 上午9:16
+@DateTime : 1/11/20 11:36 AM
 @File : fileutil
-@Software: uxcloud
-@Version : v4.0.0.0
+@Version : v0.0.1.0
 */
 
 // @Description: TODO

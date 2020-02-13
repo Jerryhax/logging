@@ -1,3 +1,11 @@
+/*
+@Group : Jerryhax
+@Author : Jerryhax
+@DateTime : 1/11/20 11:36 AM
+@File : log_maintain
+@Version : v0.0.1.0
+*/
+
 package logging
 
 import (
